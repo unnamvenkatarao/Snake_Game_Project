@@ -1,4 +1,4 @@
-# ![Picture2](https://github.com/user-attachments/assets/1eb65469-0221-48b3-9ed4-1fb367227676) Snake Game – Java AWT/Swing
+# **bold** ![Picture2](https://github.com/user-attachments/assets/1eb65469-0221-48b3-9ed4-1fb367227676) Snake Game – Java AWT/Swing
 ## 📌 Project Overview
 This project is a classic Snake Game developed using the Java programming language and Java Frames (AWT/Swing) for the graphical user interface. It demonstrates the use of:
 
@@ -127,7 +127,7 @@ Add pause/resume and restart options
 ### Game At Middle:
 
 ![Third](https://github.com/user-attachments/assets/8b91ead4-efa8-4f9a-b496-f69c6a4c8ca2)
-
+<br>
 ![fourth](https://github.com/user-attachments/assets/f310b6a5-4b32-491c-a8e7-5a0ff64550ef)
 
 
