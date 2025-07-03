@@ -119,16 +119,26 @@ Implement a high-score leaderboard
 Add pause/resume and restart options
 
 ## 📷 Preview
+### Game Start:
+
 ![intial](https://github.com/user-attachments/assets/89dd10d4-5139-474d-acef-bb26da028dae)
-![second](https://github.com/user-attachments/assets/2ab46b81-8635-44e5-a8df-e9dbd21a9d13)
+
+
+### Game At Middle:
+
 ![Third](https://github.com/user-attachments/assets/8b91ead4-efa8-4f9a-b496-f69c6a4c8ca2)
+
 ![fourth](https://github.com/user-attachments/assets/f310b6a5-4b32-491c-a8e7-5a0ff64550ef)
+
+
+### Game Over: 
+
 ![fiveth](https://github.com/user-attachments/assets/19bcc3ec-c03b-49cf-b17f-daac3fda645b)
 
 
 
 
-🧾 License
+## 🧾 License
 This project is open-source and available for learning and improvement.
 Feel free to fork, modify, and contribute!
 
