@@ -1,4 +1,4 @@
-# Snake Game – Java AWT/Swing ![Picture1](https://github.com/user-attachments/assets/8f4a354d-2a25-45a7-a6b2-7bc7c70d77ae)
+# ![Picture2](https://github.com/user-attachments/assets/1eb65469-0221-48b3-9ed4-1fb367227676) Snake Game – Java AWT/Swing
 ## 📌 Project Overview
 This project is a classic Snake Game developed using the Java programming language and Java Frames (AWT/Swing) for the graphical user interface. It demonstrates the use of:
 
